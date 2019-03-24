@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Open+Sans+Condensed:300');
+
+/* font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Indie Flower', cursive; */
+
+header {
+	height: 200px;
+	font-family: 'Indie Flower', cursive;
+	font-size: 36px;
+	color: rgb(23, 219, 160);
+}
+
+body {
+	font-family: 'Indie Flower', cursive;
+	color: rgb(23, 219, 160);
+	background-color: black;
+}
+
+a {
+	text-decoration: none;
+	font-size: 36px;
+	color: white;
+}
+
+h1, h2, h3 {
+	text-transform: uppercase;
+}
+
+.design-selection {}
+/* .summary {
+	
+}
+
+.preamble {
+	
+}
+*/
+/* .explanation {
+	float: right;
+} */
+/*
+.participation {
+	color: rgb(13, 236, 13);
+}
+
+.benefits {
+	color: rgb(12, 12, 211);
+}
+
+.requirements {
+	color: rgb(120, 17, 194);
+}
+
+.sidebar {
+	color: rgb(122, 23, 122);
+}
+
+.zen-resources {
+	color: rgb(173, 56, 76);
+}
+
+.footer {
+	color: rgb(165, 7, 165);
+} */
